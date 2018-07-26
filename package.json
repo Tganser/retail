@@ -1,0 +1,29 @@
+{
+  "name": "targetcasestudy",
+  "version": "1.0.0",
+  "description": "myRetail RESTful service",
+  "main": "solution.js",
+  "scripts": {
+    "test": "test",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tganser/retail.git"
+  },
+  "author": "Tessa Ganser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tganser/retail/issues"
+  },
+  "homepage": "https://github.com/Tganser/retail#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongodb": "^2.2.16",
+    "mongoose": "^4.13.14"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
