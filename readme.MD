@@ -5,7 +5,7 @@ To run the project:
 -------
 To run the program, first download the folder.
 
-In your terminal/command line, navigate into the main 'TargetCaseStudy' folder.
+In your terminal/command line, navigate into the main program folder.
 To bring in dependencies, type:
 `npm install`
 
@@ -18,6 +18,7 @@ A new mongoDB will be created- for more information and to download mongoDB see:
 
 For more information- see comments directly in the code.
 
-####Testing the project:
+Testing the project:
+-----------------------
 
-I used Postman (https://www.getpostman.com/) to test my API and program.
+I used Postman (https://www.getpostman.com/) to test my code.
